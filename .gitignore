@@ -31,3 +31,8 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Project specific files
+file_client.c
+file_server.c
+tcp.h
